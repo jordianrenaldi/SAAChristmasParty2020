@@ -1,3 +1,11 @@
+html,body
+{
+    width: 100%;
+    margin: 0px;
+    padding: 0px;
+    overflow-x: hidden;
+}
+
 h1{
   font-family: "Roboto", sans-serif;
   font-weight: 900;
@@ -22,11 +30,11 @@ a{
   background-color: #c9182b;
   color: #FFF;
   text-align: center;
+  height: 50vh;
 }
 
 .giphy-embed{
-  margin-top: 7%;
-  margin-right: 15%;
+  margin-top: 7% 10%;
 }
 
 /* Carousel */
@@ -35,6 +43,7 @@ a{
   padding: 7% 5%;
   text-align: center;
 }
+
 
 .carousel-caption{
   border-radius: 25px;
@@ -57,5 +66,10 @@ a{
 }
 
 #cta h1{
+  color: #fff;
+}
+
+#cta h3{
+  font-size: 2rem;
   color: #fff;
 }
