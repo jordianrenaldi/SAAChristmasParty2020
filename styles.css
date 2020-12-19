@@ -1,0 +1,61 @@
+h1{
+  font-family: "Roboto", sans-serif;
+  font-weight: 900;
+  font-size: 2.25rem;
+  margin: 20% 15% 7%;
+}
+
+h3{
+  font-family: "Montserrat", sans-serif;
+  font-weight: 400;
+  font-size: 1.5rem;
+}
+
+a{
+  color: #000;
+  text-decoration: none;
+}
+
+/* Introduction */
+
+#introduction{
+  background-color: #c9182b;
+  color: #FFF;
+  text-align: center;
+}
+
+.giphy-embed{
+  margin-top: 7%;
+  margin-right: 15%;
+}
+
+/* Carousel */
+#img-carousel{
+  background-color: #e3f3ac;
+  padding: 7% 5%;
+  text-align: center;
+}
+
+.carousel-caption{
+  border-radius: 25px;
+  font-family: "Montserrat", sans-serif;
+  background-color: rgb(0, 0, 0, 0.4);
+  font-size: .85rem;
+}
+
+/* Item List */
+#item-list{
+  background-color: #f23a3a;
+  padding: 7% 15%;
+}
+
+/* CTA */
+#cta{
+  background-color: #44c662;
+  text-align: center;
+  padding: 7% 0;
+}
+
+#cta h1{
+  color: #fff;
+}
