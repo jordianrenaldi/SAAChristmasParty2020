@@ -1,4 +1,4 @@
-@media (max-width:1028px) {
+
   html, body {
     width: 100%;
     margin: 0px;
@@ -9,14 +9,14 @@
   h1 {
     font-family: "Roboto", sans-serif;
     font-weight: 900;
-    font-size: 2.25rem;
+    font-size: 3.25rem;
     margin: 20% 15% 7%;
   }
 
   h3 {
     font-family: "Montserrat", sans-serif;
     font-weight: 400;
-    font-size: 1.5rem;
+    font-size: 2.5rem;
   }
 
   a {
@@ -36,7 +36,7 @@
   }
 
   .nav-item {
-    font-size: 2rem;
+    font-size: 3rem;
   }
 
   .giphy-embed {
@@ -54,7 +54,7 @@
     border-radius: 25px;
     font-family: "Montserrat", sans-serif;
     background-color: rgb(0, 0, 0, 0.4);
-    font-size: 1.75rem;
+    font-size: 2.75rem;
   }
 
   /* Item List */
@@ -75,7 +75,6 @@
   }
 
   #cta h3 {
-    font-size: 2rem;
+    font-size: 3rem;
     color: #fff;
   }
-}
